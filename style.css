@@ -1,0 +1,26 @@
+html{  
+        background-color: #BFFFF0;
+        font-family: 'Whisper';
+}
+
+h1{
+        color:#DFCCFB;
+        text-align: center;
+}
+
+h2{
+        color:#504099;
+        text-align: right;
+}
+
+.titles{
+        background-color:#FFF8C9;
+        border-radius: 35px;
+}
+
+img{
+        border-radius:30px;
+        border:8px solid #BEADFA;
+        object-fit:cover;
+        height:200px
+}
